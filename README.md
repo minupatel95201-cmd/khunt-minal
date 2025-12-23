@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Minu Patel  
+# 👋 Hi, I'm khunt minal  
 
 🎓 Student | 💻 Web Developer | 🚀 Learning & Growing Every Day  
 
@@ -36,8 +36,8 @@ _(More projects coming soon...)_
 ---
 
 ## 📫 Connect With Me  
-- 💼 GitHub: https://github.com/YOUR_USERNAME  
-- 📧 Email: your.email@example.com  
+- 💼 GitHub: https://github.com/minupatel95201-cmd 
+- 📧 Email: minupatel95201@gmail.com
 
 ---
 
