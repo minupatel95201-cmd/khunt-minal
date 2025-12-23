@@ -1,12 +1,44 @@
+# 👋 Hi, I'm Minu Patel  
 
+🎓 Student | 💻 Web Developer | 🚀 Learning & Growing Every Day  
 
-### Hi 👋, I'm Khunt Minal  
+---
 
-🚀 Full Stack Web Developer | MERN | Next.js  
-💼 Working at Codespire Surat  
+## 🌟 About Me  
+- 🌱 Currently learning **HTML, CSS, JavaScript & Web Development**  
+- 💡 Interested in **Frontend Development & UI Design**  
+- 🛠️ Love building simple and useful projects  
+- 📍 From India  
 
-- 🔭 Currently working on Next.js & GSAP  
-- 🌱 Learning modern frontend & animations  
-- 💬 Ask me about React, MongoDB, Express  
-- 📫 Reach me: minupatel95201@gmail.com
-- ⚡ Fun fact: I animate pixels and caffeinate bugs ☕
+---
+
+## 🧑‍💻 Skills  
+- **Languages:** HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code  
+- **Design:** Responsive Web Design  
+
+---
+
+## 📂 Projects  
+- 🍔 **Food Website** – HTML & CSS based food ordering UI  
+- 🔐 **Login Page** – Simple and clean authentication UI  
+- 🏠 **Home Decor Website** – Static website design  
+
+_(More projects coming soon...)_
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me  
+- 💼 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: your.email@example.com  
+
+---
+
+✨ *“Learning never stops, and neither do I.”*  
